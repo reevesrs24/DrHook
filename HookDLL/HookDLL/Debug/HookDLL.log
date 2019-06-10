@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+c:\users\pip\source\repos\hookdll\hookdll\dllmain.cpp(12): warning C4566: character represented by universal-character-name '\u202A' cannot be represented in the current code page (1252)
+  HookDLL.cpp
+  Generating Code...
+  HookDLL.vcxproj -> C:\Users\pip\source\repos\HookDLL\Debug\HookDLL.dll

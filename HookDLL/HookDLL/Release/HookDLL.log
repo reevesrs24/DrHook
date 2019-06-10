@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+c:\users\pip\source\repos\hookdll\hookdll\dllmain.cpp(26): warning C4411: 'retJmpAddress': symbol resolves to displacement register
+  HookDLL.cpp
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HookDLL.vcxproj -> C:\Users\pip\source\repos\HookDLL\Release\HookDLL.dll

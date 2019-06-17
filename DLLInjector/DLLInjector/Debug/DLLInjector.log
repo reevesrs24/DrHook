@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\pip\source\repos\dllinjector\dllinjector\main.cpp(33): warning C4101: 'cbNeeded': unreferenced local variable
+c:\users\pip\source\repos\dllinjector\dllinjector\main.cpp(32): warning C4101: 'hMod': unreferenced local variable
+  DLLInjector.vcxproj -> C:\Users\pip\source\repos\DLLInjector\Debug\DLLInjector.exe

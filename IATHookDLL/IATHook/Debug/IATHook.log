@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+c:\users\pip\dev\drhook\iathookdll\iathook\dllmain.cpp(18): warning C4411: 'addr': symbol resolves to displacement register
+  IATHook.vcxproj -> C:\Users\pip\Dev\drHook\IATHookDLL\Debug\IATHook.dll

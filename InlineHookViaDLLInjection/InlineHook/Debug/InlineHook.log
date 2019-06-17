@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\pip\source\repos\inlinehook\inlinehook\main.cpp(33): warning C4101: 'cbNeeded': unreferenced local variable
-c:\users\pip\source\repos\inlinehook\inlinehook\main.cpp(32): warning C4101: 'hMod': unreferenced local variable
-  InlineHook.vcxproj -> C:\Users\pip\source\repos\InlineHook\Debug\InlineHook.exe
